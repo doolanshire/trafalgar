@@ -6,6 +6,11 @@ A small database in CSV format holding information on the ships that fought at t
 * **trafalgar.csv**: the database itself. Each observation is an individual ship that participated in the battle. Variables are semicolon-delimited to keep with the *Microsoft Excel* standard.
 * **codebook.md**: a description of the different variables included in the database.
 
+## To do
+
+* Add the ships of the Combined Fleet.
+* Write the codebook.
+
 ## Sources
 
 * ADKIN, Mark – *The Trafalgar Companion* (2005)
