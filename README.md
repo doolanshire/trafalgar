@@ -3,7 +3,7 @@ A small database in CSV format holding information on the ships that fought at t
 
 ## Files
 
-* **trafalgar.csv**: the database itself. Each observation is an individual ship that participated in the battle. Variables are semicolon-delimited to keep with the *Microsoft Excel* standard.
+* **trafalgar.csv**: the database itself. Each observation is an individual ship that participated in the battle. Variables are comma-separated to keep with the CSV standard.
 * **codebook.md**: a description of the different variables included in the database.
 
 ## To do
