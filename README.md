@@ -9,7 +9,7 @@ A small database in CSV format holding information on the ships that fought at t
 ## To do
 
 * Add the ships of the Combined Fleet.
-* Write the codebook.
+* Add the attached ships (frigates and smaller vessels) for both fleets.
 
 ## Sources
 
