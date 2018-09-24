@@ -35,7 +35,7 @@ Within each group, ships are sorted by sailing order.
 * **construction**: nation which built the ship, to account for captured vessels. Two possible factors:
 	* British
 	* French
-* **commander**: the officer commanding the ship.Two names (separated by a comma) are listed for flagships, and for ships that had their commander killed in action or as a direct consequence of it. In the latter case, the symbol '†' is appended to the deceased officer's name.
+* **commander**: the officer commanding the ship.Two names (separated by a comma) are listed for flagships, and for ships that had their commander killed in action or as a direct consequence of it. In the latter case, the symbol '†' (killed in action) or '(DOW)' (Died Of Wounds) is appended to the deceased officer's name. Uniquely, Capt. Don Antonio Pareja of *Argonauta* is listed '(WIA)' (Wounded In Action).
 * **group**: the group the ship operated in. One of the following factors:
 	* Attacking the head of the Franco-Spanish fleet (*HMS Africa* only)
 	* Weather Column (British fleet only)
