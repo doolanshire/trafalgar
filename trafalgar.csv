@@ -1,28 +1,28 @@
-"ship";"type";"guns";"fleet";"construction";"commander";"group";"order";"complement";"killed";"wounded";"total";"percentage"
-"Africa";"2-decker";64;"British";"British";"Capt Henry Digby";"Attacking the Head of the Franco-Spanish Fleet";1;498;8;44;52;10
-"Victory";"3-decker";104;"British";"British";"Vice Admiral Lord Nelson, Capt Thomas Masterman Hardy";"Weather Column";1;821;57;102;159;19
-"Témeraire";"3-decker";98;"British";"British";"Capt Eliab Harvey";"Weather Column";2;718;47;76;123;17
-"Neptune";"3-decker";98;"British";"British";"Capt Thomas Francis Fremantle";"Weather Column";3;741;10;34;44;6
-"Leviathan";"2-decker";74;"British";"British";"Capt Henry William Bayntun";"Weather Column";4;623;4;22;26;4
-"Conqueror";"2-decker";74;"British";"British";"Capt Israel Pellew";"Weather Column";5;573;3;9;12;2
-"Britannia";"3-decker";100;"British";"British";"Rear-Admiral The Rt Hon. Earl of Northesk, Capt Charles Bullen";"Weather Column";6;854;10;42;52;6
-"Agamemnon";"2-decker";64;"British";"British";"Capt Sir Edward Berry";"Weather Column";7;498;2;8;10;2
-"Ajax";"2-decker";74;"British";"British";"Lieut John Pilford (acting captain)";"Weather Column";8;702;2;10;12;2
-"Orion";"2-decker";74;"British";"British";"Capt Edward Codrington";"Weather Column";9;541;1;23;24;4
-"Minotaur";"2-decker";74;"British";"British";"Capt Charles John Moore Mansfield";"Weather Column";10;625;3;22;25;4
-"Spartiate";"2-decker";74;"British";"French";"Capt Sir Francis Laforey";"Weather Column";11;620;3;22;25;4
-"Royal Sovereign";"3-decker";100;"British";"British";"Vice-Admiral Cuthbert Collingwood, Capt Edward Rotheram";"Lee Column";1;826;47;94;141;17
-"Belleisle";"2-decker";74;"British";"French";"Capt William Hargood";"Lee Column";2;728;33;94;127;17
-"Mars";"2-decker";74;"British";"British";"Capt George Duff†, Lieut William Hennah";"Lee Column";3;615;27;71;98;16
-"Tonnant";"2-decker";80;"British";"French";"Capt Charles Tyler";"Lee Column";4;688;26;50;76;11
-"Bellerophon";"2-decker";74;"British";"British";"Capt John Cooke†, Lieut William Pryce Cumby";"Lee Column";5;522;28;127;155;30
-"Colossus";"2-decker";74;"British";"British";"Capt James Nicoll Morris";"Lee Column";6;571;40;160;200;35
-"Achille";"2-decker";74;"British";"British";"Capt Richard King";"Lee Column";7;619;13;59;72;12
-"Revenge";"2-decker";74;"British";"British";"Capt Robert Moorsom";"Lee Column";8;598;28;51;79;13
-"Polyphemus";"2-decker";64;"British";"British";"Capt Robert Redmill";"Lee Column";9;484;2;4;6;1
-"Swiftsure";"2-decker";74;"British";"British";"Capt William Gordon Rutherfurd";"Lee Column";10;570;9;8;17;3
-"Dreadnought";"3-decker";98;"British";"British";"Capt John Conn";"Lee Column";11;725;7;26;33;5
-"Defiance";"2-decker";74;"British";"British";"Capt Philip Charles Durham";"Lee Column";12;577;17;53;70;12
-"Thunderer";"2-decker";74;"British";"British";"Lieut John Stockham (acting captain)";"Lee Column";13;611;4;12;16;3
-"Defence";"2-decker";74;"British";"British";"Capt George Hope";"Lee Column";14;599;7;29;36;6
-"Prince";"3-decker";98;"British";"British";"Capt Richard Grindall";"Lee Column";15;735;0;0;0;0
+"ship","type","guns","fleet","construction","commander","group","order","complement","killed","wounded","total","percentage"
+"Africa","2-decker",64,"British","British","Capt Henry Digby","Attacking the Head of the Franco-Spanish Fleet",1,498,8,44,52,10
+"Victory","3-decker",104,"British","British","Vice Admiral Lord Nelson, Capt Thomas Masterman Hardy","Weather Column",1,821,57,102,159,19
+"Témeraire","3-decker",98,"British","British","Capt Eliab Harvey","Weather Column",2,718,47,76,123,17
+"Neptune","3-decker",98,"British","British","Capt Thomas Francis Fremantle","Weather Column",3,741,10,34,44,6
+"Leviathan","2-decker",74,"British","British","Capt Henry William Bayntun","Weather Column",4,623,4,22,26,4
+"Conqueror","2-decker",74,"British","British","Capt Israel Pellew","Weather Column",5,573,3,9,12,2
+"Britannia","3-decker",100,"British","British","Rear-Admiral The Rt Hon. Earl of Northesk, Capt Charles Bullen","Weather Column",6,854,10,42,52,6
+"Agamemnon","2-decker",64,"British","British","Capt Sir Edward Berry","Weather Column",7,498,2,8,10,2
+"Ajax","2-decker",74,"British","British","Lieut John Pilford (acting captain)","Weather Column",8,702,2,10,12,2
+"Orion","2-decker",74,"British","British","Capt Edward Codrington","Weather Column",9,541,1,23,24,4
+"Minotaur","2-decker",74,"British","British","Capt Charles John Moore Mansfield","Weather Column",10,625,3,22,25,4
+"Spartiate","2-decker",74,"British","French","Capt Sir Francis Laforey","Weather Column",11,620,3,22,25,4
+"Royal Sovereign","3-decker",100,"British","British","Vice-Admiral Cuthbert Collingwood, Capt Edward Rotheram","Lee Column",1,826,47,94,141,17
+"Belleisle","2-decker",74,"British","French","Capt William Hargood","Lee Column",2,728,33,94,127,17
+"Mars","2-decker",74,"British","British","Capt George Duff†, Lieut William Hennah","Lee Column",3,615,27,71,98,16
+"Tonnant","2-decker",80,"British","French","Capt Charles Tyler","Lee Column",4,688,26,50,76,11
+"Bellerophon","2-decker",74,"British","British","Capt John Cooke†, Lieut William Pryce Cumby","Lee Column",5,522,28,127,155,30
+"Colossus","2-decker",74,"British","British","Capt James Nicoll Morris","Lee Column",6,571,40,160,200,35
+"Achille","2-decker",74,"British","British","Capt Richard King","Lee Column",7,619,13,59,72,12
+"Revenge","2-decker",74,"British","British","Capt Robert Moorsom","Lee Column",8,598,28,51,79,13
+"Polyphemus","2-decker",64,"British","British","Capt Robert Redmill","Lee Column",9,484,2,4,6,1
+"Swiftsure","2-decker",74,"British","British","Capt William Gordon Rutherfurd","Lee Column",10,570,9,8,17,3
+"Dreadnought","3-decker",98,"British","British","Capt John Conn","Lee Column",11,725,7,26,33,5
+"Defiance","2-decker",74,"British","British","Capt Philip Charles Durham","Lee Column",12,577,17,53,70,12
+"Thunderer","2-decker",74,"British","British","Lieut John Stockham (acting captain)","Lee Column",13,611,4,12,16,3
+"Defence","2-decker",74,"British","British","Capt George Hope","Lee Column",14,599,7,29,36,6
+"Prince","3-decker",98,"British","British","Capt Richard Grindall","Lee Column",15,735,0,0,0,0
