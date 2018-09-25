@@ -8,8 +8,7 @@ A small database in CSV format holding information on the ships that fought at t
 
 ## To do
 
-* Add the ships of the Combined Fleet.
-* Add the attached ships (frigates and smaller vessels) for both fleets.
+* Research crew complements for frigates and smaller vessels attached to the Franco-Spanish fleet.
 
 ## Sources
 

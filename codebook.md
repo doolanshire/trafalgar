@@ -29,19 +29,22 @@ Within each group, ships are sorted by sailing order.
 	* Cutter
 	* Schooner
 * **guns**: the number of guns mounted on the ship at the moment of the battle. Carronades are included.
-* **fleet**: the fleet the ship belongs to, from one of the two factors:
-	* British
-	* Combined
-* **construction**: nation which built the ship, to account for captured vessels. Two possible factors:
+* **fleet**: the fleet the ship belongs to, from one of the three factors:
 	* British
 	* French
+	* Spanish
+* **construction**: nation which built the ship, to account for captured vessels. Four possible factors:
+	* British
+	* French
+	* Spanish
+	* Cuban
 * **commander**: the officer commanding the ship.Two names (separated by a comma) are listed for flagships, and for ships that had their commander killed in action or as a direct consequence of it. In the latter case, the symbol '†' (killed in action) or '(DOW)' (Died Of Wounds) is appended to the deceased officer's name. Uniquely, Capt. Don Antonio Pareja of *Argonauta* is listed '(WIA)' (Wounded In Action).
 * **group**: the group the ship operated in. One of the following factors:
 	* Attacking the head of the Franco-Spanish fleet (*HMS Africa* only)
 	* Weather Column (British fleet only)
 	* Lee Column (British fleet only)
-	* Line of battle (French fleet only)
-	* Attached (both fleets)
+	* Line of Battle (Franco-Spanish fleet only)
+	* Attached (British and Franco-Spanish fleets)
 * **order**: sailing order of the ship *within its group*. Bear in mind this variable is **not** unique.
 * **complement**: the crew complement of the ship.
 * **killed**: number of men killed in the course of the action.
